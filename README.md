@@ -29,5 +29,5 @@ npm start
 
 #noted
 
-bila datanya tidak tampil pas sedang menambahkan category atau task direload webistenya terimakasih
+bila datanya tidak tampil ketika menambahkan category atau task mohon direload websitenya
 
