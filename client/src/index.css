@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&family=VT323&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+
+.auth-page-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px;
+}
+
+.home-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.tasks-container {
+  padding: 50px 100px 50px 50px;
+  flex: 5;
+  min-height: 100vh;
+}
+
+.sidebar {
+  padding: 90px;
+  font-size: 17px;
+  flex: 1;
+  border-right: 1px solid #ccc;
+}
+
+.sidebar-active {
+  font-weight: bold;
+}
+
+.category-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.task-title {
+  font-size: 16px;
+}
+
+.done {
+  text-decoration: line-through !important;
+  color: grey;
+}
+
+.category-label {
+  color: white;
+  font-size: 10px;
+  padding: 1px 5px;
+}
+
+div.error {
+  padding: 10px;
+  background: #ffefef;
+  border: 1px solid #e7195a;
+  color: #e7195a;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.delete {
+  cursor: pointer;
+
+  padding: 5px;
+  border-radius: 50%;
+  color: #e7195a;
+}
