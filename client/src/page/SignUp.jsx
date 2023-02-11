@@ -24,7 +24,13 @@ const SignUp = () => {
     setError(null)
 
     try {
-      const response = await axios.post('http://localhost:5000/api/v1/register', { name, phone, username, email, password })
+      const response = await axios.post('http://localhost:5000/api/v1/register', { 
+        name, 
+        phone, 
+        username, 
+        email,
+        password 
+    })
       const { data } = response
 
       // save the user to local storage
