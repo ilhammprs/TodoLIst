@@ -25,10 +25,6 @@ npm install
 npm start
 ```
 
-## Tampilan TodoList
-![Screenshot (17)](https://user-images.githubusercontent.com/108688272/218261246-32dc6013-614e-4267-b366-46c870e9164f.png)
-
-
 #noted
 
 bila datanya tidak tampil ketika menambahkan category atau task, dan juga ketika menghapus datanya tidak hilang mohon direload websitenya
