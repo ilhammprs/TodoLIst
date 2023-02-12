@@ -11,7 +11,6 @@
 
 - bcryptjs : [bcryptjs](https://www.npmjs.com/package/bcryptjs).
 - cors : [cors](https://www.npmjs.com/package/cors).
-- joi : [joi](https://www.npmjs.com/package/joi)
 - express : [express](https://www.npmjs.com/package/express)
 - authentication : [jwt](https://www.npmjs.com/package/jsonwebtoken)
 - mongoose : [mongoose](https://www.npmjs.com/package/mongoose)
