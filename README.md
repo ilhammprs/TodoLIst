@@ -1,5 +1,5 @@
 
-## Library yang Frontend
+## Library Frontend
 
 - axios : [axios](https://www.npmjs.com/package/axios).
 - react : [react](https://www.npmjs.com/package/react).
@@ -7,7 +7,7 @@
 - react-dom : [ract-dom](https://www.npmjs.com/package/react-dom)
 - bootstrap : [bootstrap](https://www.npmjs.com/package/bootstrap)
 
-## Library yang Backend
+## Library Backend
 
 - bcryptjs : [bcryptjs](https://www.npmjs.com/package/bcryptjs).
 - cors : [cors](https://www.npmjs.com/package/cors).
